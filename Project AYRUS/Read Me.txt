@@ -1,0 +1,17 @@
+The voice assistant can:
+1) Greet you!
+2) Tell the time
+3) Send the Mail
+4) Search in the wikipedia and tell about people or thing
+5) Tell about my friends.
+6) Open Youtube, Google or any other sites
+7) Play music/audio
+
+
+
+******************Note******************
+If the PyAudio is not working in your computer. Then,
+Open Powershell in the project folder then copy this line: pip install "name of the file" and press enter .
+Please use the provided PyAudio files.
+
+To send email, Edit the given mail and save the password in the text file then share the path in the code.
